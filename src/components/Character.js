@@ -1,23 +1,14 @@
-function Character(props) {
+function SimpsFamily(props) {
     console.log(props);
-let {name,id,status,special,gender,picture} = props;
+let {name,age,lorem,picture} = props;
     return (
         <div>
-
-            <div>
-
-
-
-            </div>
-
-            <h1>{id}</h1>
             <h2>{name}</h2>
-            <h3>{status}</h3>
-            <h3>{special}</h3>
-            <h3>{gender}</h3>
+            <h3>{age}</h3>
+            <p>{lorem}</p>
             <img src={picture} alt=''/>
        </div>
     )
     
 }
-export default Character;
+export default SimpsFamily ;
