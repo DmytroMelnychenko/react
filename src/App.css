@@ -1,12 +1,26 @@
 body {
-  background: navajowhite;
+  background: #cdeeff;
 }
 
-.App>div {
+/*.Rocket>div {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
   margin-top: 10px;
+}*/
+.Rocket {
+  width: 330px;
+  height: 330px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+  border: 3px solid #ffffff;
+  background: #cdeeff;
+
 }
+
+
