@@ -1,9 +1,10 @@
-import {useEffect, useState} from "@types/react";
+import {useEffect, useState} from "react";
 import {Rocket} from "../rocket/Rocket";
 
-
 function Rockets() {
+
     const [rockets, setRockets] = useState([]);
+
     useEffect(() =>{
         fetch('https://api.spacexdata.com/v3/launches/')
             .then(response => response.json())
