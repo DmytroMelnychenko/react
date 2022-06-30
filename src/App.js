@@ -1,8 +1,10 @@
+import './App.css'
+
 import {Users} from "./components";
 
-function App(props) {
+function App() {
     return (
-        <div>
+        <div className={"App"}>
 <Users/>
         </div>
     );
