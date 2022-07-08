@@ -10,7 +10,7 @@ const Users = () => {
             defaultValues: {
                 name: 'name',
                 username: 'username',
-                email: 'shoproishodit@gmail.com'
+                email: 'hoproish@gmail.com'
             }
         }
 

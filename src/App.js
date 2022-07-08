@@ -1,9 +1,10 @@
-import {Users} from "./components";
-
+import {Comments, Users} from "./components";
+import "./App.css"
 export default  function App() {
     return (
-<div>
+<div className={'form'}>
     <Users/>
+    <Comments/>
 </div>
     );
 
