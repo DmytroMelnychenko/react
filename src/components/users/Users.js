@@ -21,7 +21,7 @@ createUser(object).then(value => console.log(value))
 
   return (
       <div>
-          <form onSubmit={handleSubmit()}>
+          <form onSubmit={handleSubmit(submit)}>
               <input type='text'{...register('name', {required: true})}/>
               {
                   errors.name && <span>Field si required</span>
