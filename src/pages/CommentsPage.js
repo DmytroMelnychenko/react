@@ -1,4 +1,4 @@
-function CommentsPage(props) {
+function CommentsPage() {
     return (
         <div>
 

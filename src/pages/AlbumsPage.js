@@ -1,4 +1,4 @@
-function AlbumsPage(props) {
+function AlbumsPage() {
     return (
         <div>
 

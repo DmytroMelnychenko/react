@@ -1,4 +1,4 @@
-function TodoComponent(props) {
+function TodoComponent() {
     return (
         <div>
 

@@ -1,4 +1,4 @@
-function PostComponent(props) {
+function PostComponent() {
     return (
         <div>
 

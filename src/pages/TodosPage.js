@@ -1,4 +1,4 @@
-function TodosPage(props) {
+function TodosPage() {
     return (
         <div>
 

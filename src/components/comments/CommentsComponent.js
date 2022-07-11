@@ -1,4 +1,8 @@
-function CommentsComponent(props) {
+
+
+function CommentsComponent({item}) {
+
+
     return (
         <div>
 

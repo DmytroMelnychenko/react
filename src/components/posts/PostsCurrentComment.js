@@ -1,4 +1,4 @@
-function PostsCurrentComment(props) {
+function PostsCurrentComment() {
     return (
         <div>
 

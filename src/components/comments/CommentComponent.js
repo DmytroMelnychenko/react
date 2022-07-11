@@ -1,7 +1,9 @@
-function CommentComponent(props) {
+function CommentComponent() {
     return (
         <div>
+            {
 
+            }
         </div>
     );
 }

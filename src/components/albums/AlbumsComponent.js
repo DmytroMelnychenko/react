@@ -1,6 +1,6 @@
 
 
-function AlbumsComponent(props) {
+function AlbumsComponent() {
     return (
         <div>
 

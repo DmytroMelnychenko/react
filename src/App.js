@@ -6,7 +6,7 @@ import AlbumsPage from "./pages/AlbumsPage";
 import CommentsPage from "./pages/CommentsPage";
 import PostsCurrentComment from "./components/posts/PostsCurrentComment";
 
-export function App() {
+export default function App() {
     return (
         <div>
             <Routes>

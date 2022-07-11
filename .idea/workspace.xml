@@ -3,9 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="97a2afc7-b7ec-452d-a10c-b43cefc5dcae" name="Changes" comment="qwe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/albums/AlbumComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/albums/AlbumComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/albums/AlbumsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/albums/AlbumsComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comments/CommentComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/CommentComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comments/CommentsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/CommentsComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/posts/PostComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/PostComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/posts/PostsCurrentComment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/PostsCurrentComment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todos/TodoComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/TodoComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todos/TodosComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/TodosComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layouts/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MainLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AlbumsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AlbumsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CommentsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/TodosPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TodosPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +28,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hw_4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -43,11 +63,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
-    <configuration name="App.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="stop" path-to-js-file="App.js" working-dir="$PROJECT_DIR$/src">
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +74,8 @@
       <workItem from="1657533744654" duration="539000" />
       <workItem from="1657534309845" duration="4209000" />
       <workItem from="1657538545247" duration="1294000" />
+      <workItem from="1657542014307" duration="585000" />
+      <workItem from="1657542626477" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1657538455752</created>
