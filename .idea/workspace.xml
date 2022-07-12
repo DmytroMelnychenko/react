@@ -3,23 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="97a2afc7-b7ec-452d-a10c-b43cefc5dcae" name="Changes" comment="qwe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/albums/AlbumComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/albums/AlbumComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/albums/AlbumsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/albums/AlbumsComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/comments/CommentComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/CommentComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/comments/CommentsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/CommentsComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/posts/PostComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/PostComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/posts/PostsCurrentComment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/PostsCurrentComment.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todos/TodoComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/TodoComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todos/TodosComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/TodosComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MainLayout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/AlbumsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AlbumsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/CommentsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/TodosPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TodosPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +69,7 @@
       <workItem from="1657534309845" duration="4209000" />
       <workItem from="1657538545247" duration="1294000" />
       <workItem from="1657542014307" duration="585000" />
-      <workItem from="1657542626477" duration="2441000" />
+      <workItem from="1657542626477" duration="12480000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1657538455752</created>
@@ -84,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657538455752</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="qwe">
+      <created>1657545126448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657545126448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
