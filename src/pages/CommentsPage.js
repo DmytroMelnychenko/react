@@ -6,6 +6,7 @@ function CommentsPage(props) {
         <div>
             <Outlet/>
             <CommentsComponent/>
+
         </div>
     );
 }
