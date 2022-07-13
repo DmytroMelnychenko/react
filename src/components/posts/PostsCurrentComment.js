@@ -1,7 +1,7 @@
 import {useParams} from "react-router-dom";
 import {useEffect, useState} from "react";
 
-import {getPostCurrentComments} from "../../services";
+import {getPostsCurrentComment} from "../../services";
 import PostComponent from "./PostComponent";
 
 function PostsCurrentComment() {
@@ -11,7 +11,7 @@ function PostsCurrentComment() {
    const [posts, setPosts]= useState([]);
 
    useEffect(() => {
-       getPostCurrentComments(postId).then(value => setPosts({...value}))
+       getPostsCurrentComment(postId).then(value => setPosts([{...value}]))
        },[postId])
 
     return (
