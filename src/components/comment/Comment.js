@@ -5,12 +5,11 @@ class Comment extends Component {
         super(props);
     }
     render() {
-        const {name, email, body} = this.props.post;
+        const {name, body} = this.props.comment;
 
         return (
             <div>
                 {name} - {body}
-                {email}
             </div>
         );
     }
