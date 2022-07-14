@@ -9,7 +9,7 @@ class Post extends Component {
 
         return (
             <div>
-                {id} -- {title}
+                {id} - {title}
             </div>
         );
     }
